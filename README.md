@@ -21,3 +21,8 @@ The create_model() function is defined to create a neural network model with hyp
 
 Evaluating the Model
 The best hyperparameters are obtained using tuner.get_best_hyperparameters(), and the best models are obtained using tuner.get_best_models(). The top three hyperparameters and models are printed to the console, and the best model is used to make predictions on the test data. The model's accuracy and loss are printed to the console. Finally, the best model is saved to an HDF5 file.
+
+
+https://colab.research.google.com/drive/1g4VK5SUOUhfMpHrC9c5cae2A3apWka8B?usp=sharing
+
+https://colab.research.google.com/drive/1W_VZzK1ImPeG0RBW4-T7eyG31nHXqikx?usp=sharing
