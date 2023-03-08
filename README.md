@@ -1,5 +1,9 @@
 # deep-learning-challenge
 
+https://colab.research.google.com/drive/1g4VK5SUOUhfMpHrC9c5cae2A3apWka8B?usp=sharing
+
+https://colab.research.google.com/drive/1W_VZzK1ImPeG0RBW4-T7eyG31nHXqikx?usp=sharing
+
 Alphabet Soup Charity Optimization
 This code implements a neural network model to predict whether applicants will be successful if funded by Alphabet Soup Charity. It utilizes hyperparameter tuning using the Keras Tuner package to optimize the model's performance.
 
